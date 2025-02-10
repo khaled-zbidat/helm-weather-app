@@ -2,7 +2,7 @@ appName: weather-app
 
 port: 80
 
-namespace: default
+namespace: argocd
 
 
 image:
